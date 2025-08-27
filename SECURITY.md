@@ -1,5 +1,5 @@
 # Security Policy
 
-If you discover a vulnerability, please report it responsibly by emailing security@bharataddress.org or opening a private advisory via GitHub Security Advisories.
+If you discover a vulnerability, please report it privately via GitHub Security Advisories on the affected repository.
 
-We will acknowledge receipt within 3 business days and work on a fix.
+We acknowledge reports and work on a fix as soon as possible.
